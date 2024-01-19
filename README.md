@@ -1,31 +1,185 @@
-A Github Pages template for academic websites. This was forked (then detached) by [Stuart Geiger](https://github.com/staeiou) from the [Minimal Mistakes Jekyll Theme](https://mmistakes.github.io/minimal-mistakes/), which is © 2016 Michael Rose and released under the MIT License. See LICENSE.md.
+# Researcher in Plant Systematics
 
-I think I've got things running smoothly and fixed some major bugs, but feel free to file issues or make pull requests if you want to improve the generic template / theme.
+#### Technical Skills: Phylogeny, Population Genetics, Ethnobotany, Python
 
-### Note: if you are using this repo and now get a notification about a security vulnerability, delete the Gemfile.lock file. 
+## Education
+- Ph.D., Plant Systematics |  University of Tehran 							       		
+- M.S., Plant Systematics	| University of Tehran 		 			        		
+- B.S., Biology | University of Tabriz 		
 
-# Instructions
+## Talks & Lectures
+-ّّFlora Iranica International Symposium
+International Conferences | 2022-05-12
 
-1. Register a GitHub account if you don't have one and confirm your e-mail (required!)
-1. Fork [this repository](https://github.com/academicpages/academicpages.github.io) by clicking the "fork" button in the top right. 
-1. Go to the repository's settings (rightmost item in the tabs that start with "Code", should be below "Unwatch"). Rename the repository "[your GitHub username].github.io", which will also be your website's URL.
-1. Set site-wide configuration and create content & metadata (see below -- also see [this set of diffs](http://archive.is/3TPas) showing what files were changed to set up [an example site](https://getorg-testacct.github.io) for a user with the username "getorg-testacct")
-1. Upload any files (like PDFs, .zip files, etc.) to the files/ directory. They will appear at https://[your GitHub username].github.io/files/example.pdf.  
-1. Check status by going to the repository settings, in the "GitHub pages" section
-1. (Optional) Use the Jupyter notebooks or python scripts in the `markdown_generator` folder to generate markdown files for publications and talks from a TSV file.
+## Publications
+Ethnobotany of plants used by indigenous communities in Birjand, a dry region with rich local traditional knowledge in eastern Iran
+Toktam Mohammadi ، Hamid Moazzeni ، Atefeh Pirani Osguei ، Jamil Vaezi ، Khadijeh Motahhari ، Mohammad Reza Joharchi ، Rainer W. Bussmman
 
-See more info at https://academicpages.github.io/
+Ethnobotany Research and Applications
+International Journal 2023 September Volume (26)
+View Article
+Karyological studies of Iranian Allium (Amaryllidaceae) species with a focus on sect. Acanthoprason. 2. Meiotic chromosomes
+Alireza Dolatyari ، Hamid Moazzeni ، Reinhard M. R Fritsch
 
-## To run locally (not on GitHub Pages, to serve on your own computer)
+Plant Biosystems
+International Journal 2023 July Volume (157) No (4) Pages (821-834)
+View Article
+Hypericum perforatum against SARS-CoV-2. A Narrative Review
+Atiye Abdolnuri ، Elham Aryanpour ، ZAHRA HATAMI NIA ، Hadi Mohebalian ، Hamid Moazzeni ، Nasrin Milani ، Maede Hasanpour
 
-1. Clone the repository and made updates as detailed above
-1. Make sure you have ruby-dev, bundler, and nodejs installed: `sudo apt install ruby-dev ruby-bundler nodejs`
-1. Run `bundle clean` to clean up the directory (no need to run `--force`)
-1. Run `bundle install` to install ruby dependencies. If you get errors, delete Gemfile.lock and try again.
-1. Run `bundle exec jekyll liveserve` to generate the HTML and serve it from `localhost:4000` the local server will automatically rebuild and refresh the pages on change.
+International Journal of BioLife Sciences
+International Journal 2023 July Volume (2) No (1) Pages (105-114)
+View Article
+Underestimated diversity in high elevations of a global biodiversity hotspot: two new endemic species of Aethionema (Brassicaceae) from the alpine zone of Iran
+Hamid Moazzeni ، Mohammad Mahmoodi ، Mohammad Jafari ، Gerald M. Schneeweiss ، Jalil Noroozi
 
-# Changelog -- bugfixes and enhancements
+Frontiers in Plant Science
+International Journal 2023 May Volume (14)
+View Article
+Molecular and morphological data reveal a new species of Sclerorhachis (Compositae, Anthemideae) and the reassessment of another species of the genus
+Sara Hassanpour ، Hamid Moazzeni ، Ali Sonboli ، Saeide Hosseini ، Atefeh Pirani Osguei ، Mohammad Reza Joharchi ، Christoph Oberprieler
 
-There is one logistical issue with a ready-to-fork template theme like academic pages that makes it a little tricky to get bug fixes and updates to the core theme. If you fork this repository, customize it, then pull again, you'll probably get merge conflicts. If you want to save your various .yml configuration files and markdown files, you can delete the repository and fork it again. Or you can manually patch. 
+Plant Systematics and Evolution
+International Journal 2023 March Volume (309) No (2)
+View Article
+Minimal climate change impacts on the geographic distribution of Nepeta glomerulosa, medicinal species endemic to southwestern and central Asia
+Sahar Karami ، Hamid Ejtehadi ، Hamid Moazzeni ، Jamil Vaezi ،
 
-To support this, all changes to the underlying code appear as a closed issue with the tag 'code change' -- get the list [here](https://github.com/academicpages/academicpages.github.io/issues?q=is%3Aclosed%20is%3Aissue%20label%3A%22code%20change%22%20). Each issue thread includes a comment linking to the single commit or a diff across multiple commits, so those with forked repositories can easily identify what they need to patch.
+Scientific Reports
+International Journal 2022 November Volume (12) No (1)
+View Article
+High–Demand Medicinal Plants of Herbal Markets in Mashhad, Iran
+Khadijeh Motahhari ، Atefeh Pirani Osguei ، Hamid Moazzeni ، Mohammad Reza Joharchi ، Rainer W. Bussmann
+
+Economic Botany
+International Journal 2022 September Volume (76) No (4) Pages (414-433)
+View Article
+Analysis of karyotype and chromosome characteristics of Iranian accessions of Falcaria vulgaris Bernh.
+Shima Hassanzadeh ، Mahdi Behnamian ، Mahdi Mohebodini ، Sara Dezhestan ، Hamid Moazzeni
+
+Journal of Plant Molecular Breeding
+International Journal 2022 June Volume (8) No (1) Pages (41-47)
+View Article
+Notes on the taxonomy of some perennial species of Trigonella sect. Ellipticae (Fabaceae) in Iran
+Hamid Reza Sharghi ، Majid Azizi ، Hamid Moazzeni ، Mohammad Reza Joharchi
+
+Nordic Journal of Botany
+International Journal 2021 February Volume (39) No (2)
+View Article
+Achillea eriophora DC.: An ethnobotanical, pharmacological and phytochemical review
+Toktam Mohammadi ، Atefeh Pirani Osguei ، Hamid Moazzeni ، Jamil Vaezi
+
+Ethnobotany Research and Applications
+International Journal 2021 January Volume (21)
+View Article
+A contribution to ethnobotany and review of phytochemistry and biological activities of the Iranian local endemic species Sclerorhachis leptoclada Rech.f.
+Toktam Mohammadi ، Atefeh Pirani Osguei ، Jamil Vaezi ، Hamid Moazzeni
+
+Ethnobotany Research and Applications
+International Journal 2020 November Volume (20)
+View Article
+Phylogeny of Acanthophyllum s.l. revisited: An update on generic concept and sectional classification
+Atefeh Pirani Osguei ، Hamid Moazzeni ، Shahin Zarre ، Richard Rabeler ، Bengt Oxelman ، Alexander Pavlenko ، Andry Kovalchuk
+
+Taxon
+International Journal 2020 July Volume (69) No (3) Pages (500-514)
+View Article
+&lt;p&gt;&lt;strong&gt;&lt;em&gt;Allium&lt;/em&gt; &lt;em&gt;schisticola&lt;/em&gt;, a new species with peculiar morphological characters and an unexpected phylogenetic position&lt;/strong&gt;&lt;/p&gt;
+Alireza Dolatyari ، Hamid Moazzeni ، Saeide Hosseini ، Frank Blattner ، Reinhard Fritsch
+
+Phytotaxa
+International Journal 2020 June Volume (450) No (3) Pages (246-256)
+View Article
+The new locally endemic genus Yazdana (Caryophyllaceae) and patterns of endemism highlight the high conservation priority of the poorly studied Shirkuh Mountains (central Iran)
+Jalil Noroozi ، Atefeh Pirani Osguei ، Hamid Moazzeni ، Mohammad Mahmoudi ، Golshan Zare ، Alireza Noormohammadi ، Michael H.J. Barfuss ، Michael Suen ، Gerald M. Schneeweiss
+
+Journal of Systematics and Evolution
+International Journal 2020 May Volume (58) No (3) Pages (339-353)
+View Article
+A karyological study of some endemic Trigonella species (Fabaceae) in Iran
+Hamid Reza Sharghi ، Majid Azizi ، Hamid Moazzeni
+
+Caryologia
+International Journal 2020 May Volume (73) No (1) Pages (155-161)
+View Article
+Plant community responses to environmentally friendly piste management in northeast Iran
+Mohammad Bagher Erfanian Taleii Noghan ، Hamid Ejtehadi ، Jamil Vaezi ، Hamid Moazzeni ، Farshid Memariani ، Mohammad Firouzjahantigh
+
+Ecology and Evolution
+International Journal 2019 July Volume (9) No (14) Pages (8193-8200)
+View Article
+Plant community responses to multiple disturbances in an arid region of northeast Iran
+Mohammad Bagher Erfanian Taleii Noghan ، Hamid Ejtehadi ، Jamil Vaezi ، Hamid Moazzeni
+
+Land Degradation and Development
+International Journal 2019 May Volume (30) No (13) Pages (1554-1563)
+View Article
+A taxonomic revision of the genus Aethionema s.l. (Brassicaceae) in Iran
+Hamid Moazzeni ، I. A. AL-SHEHBAZ ، D. A. GERMAN ، M. ASSADI ، J. MÜLLER ، Mohammad Reza Joharchi ، Farshid Memariani
+
+Phytotaxa
+International Journal 2018 June Volume (356) No (4) Pages (241-266)
+View Article
+Genome-wide nucleotide diversity and associations with geography, ploidy level and glucosinolate profiles in Aethionema arabicum (Brassicaceae)
+، ، ، Hamid Moazzeni ، ، ، ، ، ، ،
+
+Plant Systematics and Evolution
+International Journal 2018 February Volume (304) No (5) Pages (619-630)
+View Article
+The genus Spryginia (Brassicaceae) in Iran and Afghanistan
+، ، Hamid Moazzeni ، Mohammad Reza Joharchi ، Farshid Memariani ،
+
+Phytotaxa
+International Journal 2018 January Volume (334) No (3) Pages (225-232)
+View Article
+Erysimum damirliense sp. nov. (Brassicaceae) from Iran
+، Hamid Moazzeni ، ، ،
+
+Nordic Journal of Botany
+International Journal 2017 February Volume (35) No (1) Pages (8-13)
+View Article
+Evaluating the antioxidant and acetylcholinesterase inhibitory activities of some plants from Kohgiluyeh va Boyerahmad province, Iran
+، ، Hamid Moazzeni ،
+
+Research Journal of Pharmacognosy
+International Journal 2016 September Volume (3) No (4) Pages (1-7)
+View Article
+Taxonomic novelties in Erysimum for the Flora of Iran: E. polatschekii, a new alpine endemic, and E. scabrum, a new record.
+Hamid Moazzeni ، ، ، ،
+
+Phytotaxa
+International Journal 2016 July Volume (269) No (1) Pages (47-53)
+View Article
+Systematics, Tribal Placements, and Synopses of theMalcolmiaS.L. Segregates (Brassicaceae)
+Ihsan A. Al-shehbaz ، DmitRy A. GeRman ، Klaus Mummenhoff ، Hamid Moazzeni
+
+Harvard Papers in Botany
+International Journal 2014 June Volume (19) No (1) Pages (53-71)
+View Article
+Ethnobotanical study of plants used in the industry among the border resident ethnicities of northeast Iran
+Hamid Moazzeni - Khadijeh Motahhari - Atefeh Pirani Osguei
+
+22th national 10th international congress on Biology
+International Conferences | 2022-08-31
+View Article
+Brassicaceae in Iran; a review on endemism, diversity, and biogeography
+Hamid Moazzeni
+
+22th national 10th international congress on Biology
+International Conferences | 2022-08-31
+View Article
+The impact of climate change on the geographic distribution of Nepeta glomerulosa, an endemic medicinal plant species to the Irano-Turanian region
+Sahar Karami - Hamid Ejtehadi - Hamid Moazzeni
+
+22nd national 10th international congress on Biology
+International Conferences | 2022-08-31
+View Article
+Salvia abrotanoides (Kar.) Sytsma: An Ethnobotanical Study among the Border Resident Ethnicities of Northeast Iran
+Khadijeh Motahhari - Hamid Moazzeni - Atefeh Pirani Osguei
+
+9th National Congress on Medicinal Plants
+International Conferences | 2022-06-15
+View Article
+A review of ethnobotanical and medicinal plant research in Khorassan and the role of herbarium FUMH
+Hamid Moazzeni - Mohammad Reza Joharchi - Farshid Memariani
+
